@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="260" viewBox="0 0 880 260" role="img" aria-labelledby="title description">
+  <title id="title">dx83 — terminal workspace</title>
+  <desc id="description">A dark terminal with a green command prompt. The whoami command introduces dx83, followed by web, systems, and data.</desc>
+  <rect x="1" y="1" width="878" height="258" rx="16" fill="#0d1117" stroke="#30363d" />
+  <path d="M17 1h846a16 16 0 0 1 16 16v31H1V17A16 16 0 0 1 17 1Z" fill="#161b22" />
+  <path d="M1 48h878" stroke="#30363d" />
+  <circle cx="28" cy="25" r="5" fill="#f85149" />
+  <circle cx="48" cy="25" r="5" fill="#d29922" />
+  <circle cx="68" cy="25" r="5" fill="#3fb950" />
+  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace">
+    <text x="440" y="30" text-anchor="middle" fill="#8b949e" font-size="14">dx83 — ~/workspace</text>
+    <text x="36" y="94" font-size="20">
+      <tspan fill="#3fb950">~ $</tspan><tspan fill="#c9d1d9"> whoami</tspan>
+    </text>
+    <text x="34" y="158" fill="#f0f6fc" font-size="58" font-weight="700" letter-spacing="-2">dx83<tspan fill="#3fb950">.</tspan></text>
+    <text x="36" y="195" fill="#8b949e" font-size="20">web <tspan fill="#3fb950">/</tspan> systems <tspan fill="#3fb950">/</tspan> data</text>
+    <text x="36" y="234" fill="#3fb950" font-size="20">~ $</text>
+    <rect x="88" y="219" width="11" height="18" rx="1" fill="#3fb950" />
+    <text x="844" y="234" text-anchor="end" fill="#8b949e" font-size="14">github.com/dx83</text>
+  </g>
+</svg>
