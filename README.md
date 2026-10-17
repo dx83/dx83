@@ -1,42 +1,74 @@
+<h1 align="center">dx83</h1>
+
 <p align="center">
-  <img src="./assets/terminal-header.svg" width="880" alt="dx83's terminal workspace — web, systems, and data" />
+  <strong>Web Development &nbsp;|&nbsp; Systems &nbsp;|&nbsp; Databases</strong>
 </p>
 
-## `~/stack` $ cat stack.yml
+<p align="center">
+  <em>A workspace for code, systems, and data.</em>
+</p>
 
-**Languages**
+<p align="center">
+  <a href="https://github.com/dx83">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="dx83 on GitHub" />
+  </a>
+  <a href="mailto:dxorder@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email dxorder@gmail.com" />
+  </a>
+</p>
 
-![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3fb950)
-![C](https://img.shields.io/badge/C-161b22?style=flat-square&logo=c&logoColor=3fb950)
-![C++](https://img.shields.io/badge/C%2B%2B-161b22?style=flat-square&logo=cplusplus&logoColor=3fb950)
-
-**Web**
-
-![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=3fb950)
-![Node.js](https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=3fb950)
-
-**Databases**
-
-![MariaDB](https://img.shields.io/badge/MariaDB-161b22?style=flat-square&logo=mariadb&logoColor=3fb950)
-![MongoDB](https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=3fb950)
-![MySQL](https://img.shields.io/badge/MySQL-161b22?style=flat-square&logo=mysql&logoColor=3fb950)
-
-**Tools & Environment**
-
-![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=3fb950)
-![Docker](https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=3fb950)
-![Linux](https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=3fb950)
-
-## `~/activity` $ git log --stat
-
-[![dx83's GitHub activity](https://github-stats-extended.vercel.app/api?username=dx83&show_icons=true&disable_animations=true&hide_border=false&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&border_color=30363d&border_radius=12)](https://github.com/dx83?tab=repositories)
-
-[![Most used languages in dx83's repositories](https://github-stats-extended.vercel.app/api/top-langs/?username=dx83&layout=compact&disable_animations=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&border_color=30363d&border_radius=12&card_width=467)](https://github.com/dx83?tab=repositories)
-
-## `~/contact` $ cat email.txt
-
-[![Email dxorder@gmail.com](https://img.shields.io/badge/dxorder%40gmail.com-161b22?style=flat-square&logo=gmail&logoColor=3fb950)](mailto:dxorder@gmail.com)
+<br />
 
 ---
 
-<sub><code>dx83@github:~$</code> <a href="https://github.com/dx83?tab=repositories">ls repositories</a></sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=dx83&amp;layout=compact&amp;disable_animations=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;card_width=400" />
+  <img align="right" width="400" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dx83&amp;layout=compact&amp;disable_animations=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=0969da&amp;text_color=57606a&amp;card_width=400" alt="Most used languages across dx83's GitHub repositories" />
+</picture>
+
+### About this workspace
+
+My toolbox spans **Python and C/C++**, **React and Node.js**, and **SQL and NoSQL databases**.
+
+From web interfaces to systems and data, this profile brings those technologies together in one place. **Git, Docker, and Linux** round out the development environment.
+
+Browse my [repositories](https://github.com/dx83?tab=repositories), or get in touch at [dxorder@gmail.com](mailto:dxorder@gmail.com).
+
+<br clear="both" />
+
+---
+
+<br />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&amp;logo=python&amp;logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&amp;logo=mariadb&amp;logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" />
+</p>
+
+<br />
+
+<details>
+  <summary>GitHub activity</summary>
+  <br />
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=dx83&amp;show_icons=true&amp;disable_animations=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=c9d1d9" />
+      <img src="https://github-stats-extended.vercel.app/api?username=dx83&amp;show_icons=true&amp;disable_animations=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=0969da&amp;icon_color=0969da&amp;text_color=57606a" alt="dx83's GitHub activity statistics" />
+    </picture>
+  </p>
+</details>
