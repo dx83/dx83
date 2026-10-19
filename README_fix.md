@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <em>A workspace for code, systems, and data.</em>
+  <em>A workspace for code, systems, and data...</em>
 </p>
 
 <p align="center">
